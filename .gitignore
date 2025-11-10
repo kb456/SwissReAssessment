@@ -1,0 +1,32 @@
+# ----------------------------
+# Java and Build Artifacts
+# ----------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin
+
+# VS Code
+.vscode/
+
+# ----------------------------
+# OS Specific
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Logs and Temp
+# ----------------------------
+*.log
+*.tmp
+*.bak
+
